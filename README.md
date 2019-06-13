@@ -1,0 +1,2 @@
+# MAX31855ThermoSensor
+MAX31855ThermoSensor Sensor components for ardusensorplatform framework
